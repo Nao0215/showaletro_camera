@@ -6,3 +6,7 @@ pandas
 requests
 opencv-python-headless
 ultralytics
+tqdm
+PyYAML
+matplotlib
+scipy
