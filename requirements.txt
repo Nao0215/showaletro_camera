@@ -1,1 +1,7 @@
-streamlit torch torchvision Pillow pandas requests opencv-python-headless
+streamlit
+torch
+torchvision
+Pillow
+pandas
+requests
+opencv-python-headless
