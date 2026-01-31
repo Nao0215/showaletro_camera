@@ -4,7 +4,6 @@ torchvision
 Pillow
 pandas
 requests
-opencv-python-headless
 ultralytics
 tqdm
 PyYAML
